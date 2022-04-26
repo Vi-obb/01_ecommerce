@@ -19,7 +19,7 @@ export default {
                 hotspot: true
             }
         },
-
+ 
         // product name
         {
             name: "name",
